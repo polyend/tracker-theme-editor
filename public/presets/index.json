@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Original",
+    "name": "Original",
+    "file": "Original.json"
+  },
+  {
+    "id": "Retro",
+    "name": "Retro",
+    "file": "Retro.json"
+  },
+  {
+    "id": "Cyberpunk",
+    "name": "Cyberpunk",
+    "file": "Cyberpunk.json"
+  },
+  {
+    "id": "Cyberpunk2077",
+    "name": "Cyberpunk2077",
+    "file": "Cyberpunk2077.json"
+  },
+  {
+    "id": "SolarizedDark",
+    "name": "SolarizedDark",
+    "file": "SolarizedDark.json"
+  },
+  {
+    "id": "Amiga",
+    "name": "Amiga",
+    "file": "Amiga.json"
+  },
+  {
+    "id": "TerminalGreen",
+    "name": "Terminal Green",
+    "file": "TerminalGreen.json"
+  },
+  {
+    "id": "Darcula",
+    "name": "Darcula",
+    "file": "Darcula.json"
+  },
+  {
+    "id": "Monokai",
+    "name": "Monokai",
+    "file": "Monokai.json"
+  },
+  {
+    "id": "Sandroid",
+    "name": "Sandroid",
+    "file": "Sandroid.json"
+  },
+  {
+    "id": "Sega",
+    "name": "Sega",
+    "file": "Sega.json"
+  },
+  {
+    "id": "Synthwave",
+    "name": "Synthwave",
+    "file": "Synthwave.json"
+  },
+  {
+    "id": "Crimson",
+    "name": "Crimson",
+    "file": "Crimson.json"
+  }
+]
